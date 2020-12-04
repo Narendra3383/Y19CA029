@@ -1,5 +1,5 @@
 /*write program to create player class and inherit three sub calss cricket-player,hockey-palyer,foot ball player.*/
-import java .util.*;
+import java.util.*;
   class player
   {
      int id;
